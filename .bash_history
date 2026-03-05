@@ -407,3 +407,41 @@ pwd
 nano Dockerfile
 docker build -t fergg/reactprod .
 docker run -p 80:80 fergg/reactprod
+git init
+git remote add origin https://github.com/manuelhm-dot/react-docker-app
+git add .
+git commit -m “primer commit”
+git commit -m "primer commit"
+git push origin master*
+ls
+git push origin master*
+git init
+ls
+cd ..
+ls
+cd ubunut
+ubuntu
+cd ubuntu
+ls
+git init
+git remote add origin https://github.com/manuelhm-dot/react-docker-app.git
+ls
+cd reactproject
+ls
+cd frontend
+ls
+nano README.md
+git add .
+git commit -m "se modifica el archivo README.md"
+git push origin master*
+git push origin master
+git init
+git push origin master
+ls -a
+git remote -v
+git remote add origin https://github.com/manuelhm-dot/react-docker-app.git
+git remote -v
+git branch
+ls
+cat README.md
+git push origin master
